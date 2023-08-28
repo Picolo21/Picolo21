@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 😄 Meu nome é Vinicius Picolo e atualmente sou estagiário na empresa 5by5 Soluções em Sistemas<br>🎓 Graduado em Engenharia Civil e atualmente cursando Segurança da Informação na FATEC de Araraquara<br>👩‍💻 Atualmente focado no estudo da linguagem C#, mas gosto sempre de estar aprendendo novas tecnologias<br>
 
 
