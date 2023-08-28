@@ -30,9 +30,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width=600px><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Picolo21&theme=vue-dark&hide_border=false" alt="GitHub Stats" width=600px><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width=600px>
+<img src="https://github-readme-stats.vercel.app/api?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width=400px><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Picolo21&theme=vue-dark&hide_border=false" alt="GitHub Stats" width=400px><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width=400px>
 </div>
 
 ## 🏆 GitHub Trophies
