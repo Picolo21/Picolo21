@@ -35,9 +35,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width=500px><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Picolo21&theme=vue-dark&hide_border=false" alt="GitHub Stats" width=500px><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picolo21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats" width=500px>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picolo21&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Picolo21&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
 </div>
 
 ## 🏆 GitHub Trophies
